@@ -1,0 +1,5 @@
+id,title,image,description,creation_date,author_id
+33,my best friends,http://localhost:8080/static/1-2.jpg,Met them after longtime,2023-02-05,1
+39,Mentor Certificate,http://localhost:8080/static/Screenshot (971).png,"I was awarded an appreciation certificate by IIT Madrase, for mentoring 15 students.",2023-03-06,1
+42,Just Exploring,http://localhost:8080/static/Screenshot (94).png,Graphics look really good,2023-03-11,1
+57,fav post,http://localhost:8080/static/images16.jpg,Good kid,2023-03-27,1
