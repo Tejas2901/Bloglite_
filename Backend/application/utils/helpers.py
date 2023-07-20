@@ -15,7 +15,7 @@ import uuid
 SMPTP_SERVER_HOST = "smtp.outlook.com"
 SMPTP_SERVER_PORT = 587
 SENDER_ADDRESS = "bloglite_v3@outlook.com"
-SENDER_PASSWORD = "iogruvjhlbmdbxel"
+SENDER_PASSWORD = "READ FROM ENV"
 
 def send_email(to_address,subject, message,attachment = None):
     msg = MIMEMultipart()
